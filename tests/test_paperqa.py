@@ -352,7 +352,7 @@ def test_agent():
     print(answer)
 
 
-def test_zotera():
+def test_zotero():
     from paperqa.contrib import ZoteroDB
 
     docs = paperqa.Docs()
